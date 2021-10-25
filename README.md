@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DrShashankSrivastava
 - 👀 I’m interested in Data Science, Fluid Mechanics, and Mathematics
-- 🌱 I’m currently learning Computer Vision and Decentralized Learning
-- 💞️ I’m looking to collaborate on Decentrlized Learning systems
+- 🌱 I’m currently working on Physics-enhanced Machine Learning models
+- 💞️ I’m looking to collaborate on fun Data Science projects
 - 📫 Reach me at shas.srivsastava@gmail.com
 
 <!---
